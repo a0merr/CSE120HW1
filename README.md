@@ -7,27 +7,30 @@
 ---
 
 ## 📌 Project Overview
-This repository contains the code for **Homework 1** in CSE 120. The assignment focused on applying **basic Python programming concepts** and building simple programs that demonstrate:
+This repository contains the code for **Homework 1** in CSE 120. The assignment focused on applying **basic Python programming concepts** to small exercises, including:  
 
-- Variables and data types  
-- Control flow (`if`, `elif`, `else`)  
-- Loops (`while`, `for`)  
-- User input and output  
-- Basic problem-solving in Python  
+- Performing arithmetic operations  
+- Converting units  
+- Calculating geometric areas  
+- Manipulating and displaying numbers  
 
-The goal was to practice writing, testing, and documenting Python code in a structured way.
+The goal was to practice **variables, calculations, and printing output** in Python.
 
 ---
 
 ## 🛠️ Files Included
-- **HW1.py** – Main Python script containing the homework code  
+- **addition.py** – Adds two numbers and displays the result  
+- **metric_converter.py** – Converts liters to gallons  
+- **triangle_area.py** – Calculates the area of a triangle based on width and height  
+- **triple.py** – Calculates the triple of a given number  
 - **README.md** – This file  
 
 ---
 
 ## ▶️ How to Run
-1. Make sure Python is installed (Python 3.x recommended)  
+1. Make sure **Python 3.x** is installed on your machine  
 2. Open a terminal or IDE (VS Code, PyCharm, etc.)  
-3. Run the script:
+3. Run any program, for example:
    ```bash
-   python HW1.py
+   python addition.py
+
